@@ -1,8 +1,8 @@
 postinstall_files = [
   "base.sh",
   "vagrant.sh",
-  "chef.sh",
-  "puppet.sh",
+  # "chef.sh",
+  # "puppet.sh",
   "memory_swap_accounting.sh",
   "dist_upgrade.sh",
   "_cleanup.sh",
