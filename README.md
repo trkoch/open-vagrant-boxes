@@ -28,6 +28,22 @@ The boxes are also available on [Vagrant Cloud](https://vagrantcloud.com/phusion
  [Twitter](https://twitter.com/phusion_nl) |
  [Blog](http://blog.phusion.nl)
 
+## Modifications (trkoch)
+
+This is a **fork** of the original templates. Here is a quick overview of the differences:
+
+**Included**
+
+* Docker (1.3.2)
+* Fig (1.0.1)
+
+**Removed**
+
+* Chef
+* Puppet
+
+Pre-build boxes (`trkoch/trusty64`) are available at [Vagrant Cloud](https://vagrantcloud.com/trkoch).
+
 ## Using these boxes in Vagrant
 
 If you have Vagrant 1.5, you can use our boxes through [Vagrant Cloud](https://vagrantcloud.com/phusion):
