@@ -3,6 +3,7 @@ postinstall_files = [
   "vagrant.sh",
   # "chef.sh",
   # "puppet.sh",
+  "docker.sh",
   "memory_swap_accounting.sh",
   "dist_upgrade.sh",
   "_cleanup.sh",
